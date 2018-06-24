@@ -6,6 +6,7 @@ namespace ConApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("a12sd");
             Console.WriteLine("Hello World!");
         }
     }
